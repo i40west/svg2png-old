@@ -1,4 +1,4 @@
 name = "svg2png"
 main = "src/index.js"
 compatibility_date = "2022-06-13"
-
+usage_model = "unbound"
