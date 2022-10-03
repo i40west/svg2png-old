@@ -2,7 +2,7 @@
   "name": "svg2png",
   "version": "0.0.0",
   "devDependencies": {
-    "wrangler": "2.1.9"
+    "wrangler": "2.1.10"
   },
   "private": true,
   "scripts": {
