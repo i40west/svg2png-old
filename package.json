@@ -11,6 +11,6 @@
   },
   "type": "module",
   "dependencies": {
-    "svg2png-wasm": "^1.3.4"
+    "svg2png-wasm": "^1.4.1"
   }
 }
